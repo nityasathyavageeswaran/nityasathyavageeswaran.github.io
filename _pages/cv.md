@@ -46,7 +46,7 @@ Publications
 
 Posters
 ======
-* N. Sathyavageeswaran, A. D. Sarwate, R. D. Yates and N. Mandayam, "Controlling Timeliness with a Costly Oracle." [[PDF]](/files/ControllingTimelinessPosterNitya.pdf)
+* N. Sathyavageeswaran, A. D. Sarwate, R. D. Yates and N. Mandayam, "Controlling Timeliness with a Costly Oracle," 2025. [[PDF]](/files/ControllingTimelinessPosterNitya.pdf)
 
 Teaching
 ======
