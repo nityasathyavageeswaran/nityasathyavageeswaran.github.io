@@ -13,4 +13,4 @@ citation: 'N. Sathyavageeswaran, R. D. Yates, A. D. Sarwate and N. Mandayam, "Pr
 
 A source generates time-stamped updates that a server forwards to a monitor, while an adversary observing the server's output tries to learn about the source. We analyze the trade-off between age of information (AoI) and maximal leakage for Bernoulli update arrivals under three server policies: Memoryless with Bernoulli Thinning (MBT), Deterministic Accumulate-and-Dump (DAD), and Random Accumulate-and-Dump (RAD).
 
-[Download paper (PDF)](/files/Privacy_Leakage_in_Discrete-Time_Updating_Systems.pdf) · [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9834673)
+[Download paper (PDF)](/files/Privacy_Leakage_in_Discrete-Time_Updating_Systems.pdf) · [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9834673) · [arXiv](https://arxiv.org/abs/2205.15630)

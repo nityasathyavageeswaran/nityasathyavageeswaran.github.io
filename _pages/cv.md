@@ -29,6 +29,9 @@ Research Projects
   * Formulated offloading to a mobile edge cloud as an infinite-horizon, average-cost Markov decision process balancing timeliness against MEC usage cost.
   * Proved that an optimal scheduling policy has an age-threshold structure that depends on how long an update has been in service (ITW 2024).
 
+* **Age and Stability Trade-offs in Remote Monitoring Systems**
+  * Modeled a shared server balancing queue clearing against status updates as an MDP minimizing a weighted sum of average AoI and queue length; showed the optimal policy is a monotone threshold rule on the queue state (ITW 2026).
+
 * **Learning to Help in Multi-Class Settings**
   * Extended the Learning to Help (L2H) framework for hybrid client–server ML systems from binary to multi-class classification, with a differentiable, convex, Bayes-consistent surrogate loss (ICLR 2025).
 
