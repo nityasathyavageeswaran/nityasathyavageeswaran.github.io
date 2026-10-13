@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate, Electrical and Computer Engineering, Rutgers University, 2019–present
+* Ph.D. candidate, Electrical and Computer Engineering, Rutgers University
   * Advisor: Prof. Anand D. Sarwate; also working with Prof. Roy D. Yates and Prof. Narayan Mandayam
 * B.E., Electrical and Electronics Engineering, RV College of Engineering, 2019
 
