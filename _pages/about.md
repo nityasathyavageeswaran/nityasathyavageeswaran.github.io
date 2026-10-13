@@ -17,13 +17,3 @@ My research spans machine learning, uncertainty-aware inference, sequential deci
 * **Freshness vs. System Stability:** Formulating average-cost Markov Decision Processes (MDPs) to balance data freshness against queue stability under heavy traffic.
 * **MEC Offloading & Processing Cost:** Characterizing optimal scheduling structures to minimize data staleness in mobile edge cloud architectures under strict service-cost constraints.
 * **Hybrid Client–Server Learning:** Training rejectors and server models that defer high-uncertainty inputs from resource-constrained devices to a server, with convex, Bayes-consistent surrogate losses (ICLR 2025).
-
-### News
-* **Nov 2026:** "Age and Stability Trade-offs in Remote Monitoring Systems" to appear at IEEE ITW 2026.
-* **Jul–Sep 2026:** Research intern at Siemens AG, Princeton, NJ, building IT/OT network diagnostics tools for Siemens Industrial Edge deployments.
-* **Dec 2025:** "Balancing Timeliness and Privacy in Discrete-Time Updating Systems" posted on [arXiv](https://arxiv.org/abs/2512.13439) and submitted to IEEE Transactions on Information Theory.
-* **2025:** Presented the poster "Controlling Timeliness with a Costly Oracle" at BIRS, Chennai.
-* **Apr 2025:** "Learning to Help in Multi-Class Settings" published at ICLR 2025.
-
-Email: nitya.s@rutgers.edu
-
