@@ -12,11 +12,9 @@ redirect_from:
 Education
 ======
 * **Ph.D. candidate, Electrical and Computer Engineering**, Rutgers, The State University of New Jersey, New Brunswick, NJ
-  * Expected December 2026 · GPA: 3.88/4.0
   * Advisor: Prof. Anand D. Sarwate; also working with Prof. Roy D. Yates and Prof. Narayan Mandayam
   * Research focus: machine learning, uncertainty-aware inference, sequential decision-making, optimization
 * **B.E., Electrical and Electronics Engineering**, RV College of Engineering, Bangalore, India, May 2019
-  * GPA: 9.10/10 (ranked 4/80)
 
 Professional Experience
 ======
